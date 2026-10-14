@@ -1,16 +1,36 @@
-# React + Vite
+# User Authentication System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A clean, modern, and responsive User Authentication web application built using **HTML5, CSS3, and JavaScript**. This project features user registration, secure login validation, session state persistence using `localStorage`, and a protected user dashboard.
 
-Currently, two official plugins are available:
+🚀 **Live Demo:** [Task 7 User Authentication on Vercel](https://vercel.com/mahak-012s-projects/task7-user-authentication-efqi)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📂 **GitHub Repository:** [Mahak-012/task7-user-authentication](https://github.com/Mahak-012/task7-user-authentication)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🔑 **User Registration & Login:** Interactive sign-up and login forms with real-time field validation.
+* 💾 **Local Persistence:** Uses `localStorage` to save user credentials and manage authentication sessions.
+* 🛡️ **Protected Dashboard:** Restricts unauthorized access and displays customized user details upon login.
+* 🚪 **Logout Functionality:** Allows users to securely end their session and clear session states.
+* 📱 **Fully Responsive UI:** Designed with modern layout principles to render smoothly across mobile, tablet, and desktop screens.
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Storage:** Web Storage API (`localStorage`)
+* **Deployment:** Vercel
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### Prerequisites
+
+All you need is a modern web browser (Google Chrome, Mozilla Firefox, Edge, etc.).
+
+### Installation
+
+1. **Clone the repository:**
+   
+```bash
+   git clone [https://github.com/Mahak-012/task7-user-authentication.git](https://github.com/Mahak-012/task7-user-authentication.git)
